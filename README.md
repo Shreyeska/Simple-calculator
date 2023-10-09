@@ -32,7 +32,6 @@ To run my application you simply need to clone the project and run the html file
 
 Issues
 ==========
-* Internet Explorer you need to allow all the scripts to run.
 * Feel free to submit more issues and enhancement requests.
 
 Contributing
