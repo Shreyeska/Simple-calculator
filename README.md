@@ -26,6 +26,9 @@ Its useful for simple calculations.
 
 To run my application you simply need to clone the project and run the html file.
 
+## Screenshot
+![screenshot](https://github.com/Shreyeska/Simple-calculator/assets/129605801/4ac32eb0-2a8d-4487-8618-1fe4db36411d)
+
 
 Issues
 ==========
